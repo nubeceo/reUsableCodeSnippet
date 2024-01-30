@@ -18,9 +18,8 @@ Briefly describe what your repository is about and what users can expect to find
 
 Provide step-by-step instructions on how to install and use your code snippets. Include any dependencies and prerequisites.
 
-```bash
-# Example installation command or setup steps
-npm install your-package-name
+  
+
 
 # Contributing
 
