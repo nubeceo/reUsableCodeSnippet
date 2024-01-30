@@ -4,7 +4,7 @@
 
 ## Overview
 
-Briefly describe what your repository is about and what users can expect to find in it.
+This is repo where you will find important reUsable code snippet for diffrent purposes
 
 ## Table of Contents
 
