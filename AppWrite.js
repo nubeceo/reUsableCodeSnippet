@@ -4,7 +4,8 @@ import config from "../config/Config";
 // import CLient Id Account from appwrite
 import { Client, ID, Account } from 'appwrite'
 
-// create all function inside a class so that anyfile can access it with just a object.{functionName}. this is a best practice for clean and resusable code.
+// create all function inside a class so that anyfile can access it with just a object.{functionName}. 
+// this is a best practice for clean and resusable code.
 export class AuthService {
     client = new Client();
     account;
